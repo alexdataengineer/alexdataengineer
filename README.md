@@ -3,7 +3,7 @@
 **Data Engineer | Data Analyst | Data Scientist**  
 *Building AI-Powered Pipelines & BI | Driving Scalable Insights & Automation*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-silveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-silveira-62b258200/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexsander.silveira1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexsander.silveira11@outlook.com)
 
@@ -117,7 +117,7 @@ I bring a **hybrid skill set** that bridges engineering, analytics, and data sci
 ## 📫 Get in Touch
 
 - **Email**: alexsander.silveira11@outlook.com
-- **LinkedIn**: [Alexsander Silveira](https://www.linkedin.com/in/alexsander-silveira/)
+- **LinkedIn**: [Alexsander Silveira](https://www.linkedin.com/in/alexsander-silveira-62b258200/)
 - **Blog**: [Medium](https://medium.com/@alexsander.silveira1)
 - **GitHub**: [@alexdataengineer](https://github.com/alexdataengineer)
 
