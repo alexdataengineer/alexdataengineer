@@ -53,37 +53,6 @@ I bring a **hybrid skill set** that bridges engineering, analytics, and data sci
 
 ---
 
-## 💼 Professional Experience
-
-### **Senior Analytics Engineer** @ Domo
-*Sep 2024 - Present | Remote (Los Angeles Area)*
-
-- **LLM Integration**: Embedded LLMs into pipelines to enrich lead scoring, improving accuracy and targeting
-- **Executive Dashboards**: Developed real-time dashboards in Domo for marketing and sales visibility
-- **dbt Pipelines**: Built modular ELT pipelines, reducing data inconsistencies and streamlining testing
-- **Performance Optimization**: Migrated legacy scripts to Spark, cutting processing time by 25%
-- **ML Segmentation**: Enabled ML-based segmentation in Snowflake for campaign personalization
-- **CI/CD**: Implemented GitHub and Azure DevOps workflows for analytics
-
-### **Senior Data Analyst** @ Anglo American
-*Feb 2024 - Sep 2024 | Remote (London Area)*
-
-- **Real-time BI**: Developed Power BI dashboards reducing reporting delays by 15%
-- **Query Optimization**: Optimized SQL Server queries, lowering compute costs by 20%
-- **Automation**: Automated data refreshes with Python and Azure Data Factory, saving 30+ hours/month
-- **Predictive Models**: Built ML models forecasting supply chain delays, cutting penalties by 12%
-- **Cloud Migration**: Integrated Databricks and SAP HANA for 40% faster processing
-
-### **Senior BI Analyst** @ Grupo SADA
-*Aug 2023 - Feb 2024 | Betim, Brazil*
-
-- **Dashboard Redesign**: Redesigned Power BI dashboards, reducing reporting time by 40%
-- **Cost Savings**: Built Python scripts identifying R$80K in anomaly-driven cost savings
-- **Azure Integration**: Integrated Azure Data Factory and Data Lake for centralized reporting
-- **Lakehouse Architecture**: Deployed scalable data flows using Azure + Databricks
-
----
-
 ## 🏆 Certifications
 
 - **Apache Airflow Fundamentals** - Astronomer
